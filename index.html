@@ -3,20 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Doorprize Digital</title>
+    <title>Doorprize 10 Pemenang</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="bg-image"></div>
+
     <div class="container">
-        <h1>🎁 Undian Doorprize 🎁</h1>
-        <div class="display-box">
-            <h2 id="winner-name">Siap Mengundi?</h2>
-        </div>
-        <button id="spin-button" onclick="startDraw()">MULAI ACAK</button>
-        
-        <div class="history">
-            <h3>Daftar Pemenang:</h3>
-            <ul id="winner-list"></ul>
+        <header>
+            <h1>🎉 Grand Doorprize 🎉</h1>
+            <p>Mencari 10 Pemenang Beruntung</p>
+        </header>
+
+        <div class="winners-grid" id="grid-container">
+            </div>
+
+        <div class="control-panel">
+            <button id="spin-btn" onclick="startGacha()">MULAI ACAK</button>
         </div>
     </div>
 
