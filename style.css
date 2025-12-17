@@ -26,7 +26,7 @@ body {
     position: fixed;
     top: 0; left: 0; right: 0; bottom: 0;
     /* Pastikan nama file sesuai: bg.jpg atau bg.png */
-    background-image: url('bg.jpg'); 
+    background-image: url('bg.png'); 
     background-size: cover;
     background-position: center;
     filter: blur(6px) brightness(0.8); /* Blur & sedikit digelapkan agar teks terbaca */
