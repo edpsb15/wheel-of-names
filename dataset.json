@@ -1,0 +1,14 @@
+[
+    { "id": 1, "nama": "Budi Santoso", "root": "IPDS", "satker": "BPS Prov. Aceh" },
+    { "id": 2, "nama": "Siti Aminah", "root": "Nerwilis", "satker": "BPS Kab. Toba" },
+    { "id": 3, "nama": "Andi Wijaya", "root": "Sosial", "satker": "BPS RI" },
+    { "id": 4, "nama": "Dewi Lestari", "root": "Produksi", "satker": "BPS Kota Medan" },
+    { "id": 5, "nama": "Eko Prasetyo", "root": "Distribusi", "satker": "BPS Prov. Sumut" },
+    { "id": 6, "nama": "Fajar Nugraha", "root": "IPDS", "satker": "BPS Kab. Samosir" },
+    { "id": 7, "nama": "Gita Gutawa", "root": "Tata Usaha", "satker": "BPS RI" },
+    { "id": 8, "nama": "Hadi Sucipto", "root": "Nerwilis", "satker": "BPS Kota Surabaya" },
+    { "id": 9, "nama": "Indah Permata", "root": "Sosial", "satker": "BPS Prov. Bali" },
+    { "id": 10, "nama": "Joko Anwar", "root": "Produksi", "satker": "BPS Kab. Bogor" },
+    { "id": 11, "nama": "Kartika Sari", "root": "Distribusi", "satker": "BPS Prov. Jabar" },
+    { "id": 12, "nama": "Lukman Hakim", "root": "Tata Usaha", "satker": "BPS Kota Bandung" }
+]
