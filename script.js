@@ -102,8 +102,8 @@ function startGacha() {
 
             if (index === totalWinners - 1) {
                 isSpinning = false;
-                btn.innerText = "ACAK LAGI";
-                btn.disabled = false;
+                btn.innerText = "Putar !";
+                btn.disabled = true;
             }
         }, delay);
     });
