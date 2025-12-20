@@ -161,6 +161,37 @@ header p {
     border-color: #95a5a6;
 }
 
+/* TAMBAHAN / UPDATE KHUSUS UNTUK NAMA & SATKER BARU */
+
+.slot-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.slot-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem; /* Ukuran nama diperbesar sedikit */
+    font-weight: 700;
+    color: var(--primary-maroon);
+    line-height: 1.2;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.slot-satker {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.9rem; /* Ukuran satker lebih kecil */
+    color: #555; /* Warna abu gelap agar kontras tapi tidak dominan */
+    font-weight: 500;
+    text-transform: capitalize;
+    border-top: 1px solid #ddd; /* Garis pemisah tipis */
+    padding-top: 4px;
+    width: 80%; /* Garis tidak full */
+    margin-top: 4px;
+}
+
 /* Responsif untuk layar kecil */
 @media (max-width: 1024px) {
     .winners-grid {
